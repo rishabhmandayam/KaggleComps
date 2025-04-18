@@ -2,6 +2,15 @@
 __pycache__/
 *.py[cod]
 *$py.class
+# macOS system files
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# Data folders
+data/
+**/data/
 
 # C extensions
 *.so
